@@ -1,0 +1,89 @@
+    .Yordam-container {
+        width: 100%;
+        height: 120vh;
+    }
+    
+    .Yordam-container-searsh {
+        width: 100%;
+        height: 100px;
+        background-image: url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVzAnkwxCh_3sNBdVBSvBOSUh5eEAnIC12bd3rRUt5Mk9iIiE_');
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    
+    .Yordam-container-searsh input {
+        width: 40%;
+        height: 40px;
+        border-radius: 50px;
+        padding-left: 40px;
+        position: relative;
+        top: 30px;
+        left: 430px;
+        border: none;
+    }
+    
+    .Yordam-container-searsh svg {
+        width: 25px;
+        position: relative;
+        top: 40px;
+        left: 470px;
+        font-weight: 14px;
+        z-index: 1;
+    }
+    
+    .yordam-body .button1 {
+        position: relative;
+        top: 100px;
+        left: 140px;
+        margin: 17px 20px;
+        height: 65px;
+        width: 370px;
+        border-radius: 5px;
+        border: solid 1px;
+    }
+    
+    .yordam-body .button1:hover {
+        background-color: rgba(36, 35, 94, 0.86);
+        color: #ffff;
+    }
+    
+    .yordam-body .button2 {
+        position: relative;
+        top: 100px;
+        left: 140px;
+        margin: 20px;
+        height: 90px;
+        padding: 30px;
+        width: 370px;
+        border-radius: 5px;
+        border: solid 1px;
+    }
+    
+    .yordam-body .button2:hover {
+        background-color: rgba(36, 35, 94, 0.86);
+        color: #ffff;
+    }
+    
+    .yordam-body h4 {
+        position: relative;
+        top: 100px;
+        left: 600px;
+        color: rgba(15, 79, 84, 1);
+        font-size: 20px
+    }
+    
+    .yordam-body .button3 {
+        position: relative;
+        top: 100px;
+        left: 140px;
+        margin: 20px;
+        height: 90px;
+        width: 370px;
+        border: none;
+        border-bottom: solid 1px;
+    }
+    
+    .yordam-body .button3 a {
+        position: relative;
+        left: -50px;
+    }

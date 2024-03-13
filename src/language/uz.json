@@ -1,0 +1,186 @@
+{
+    "translation": {
+        "header": {
+            "n1": "Tashkilot",
+            "n2": "Imkoniyatlar",
+            "n3": "Hamkorlarga",
+            "n4": "Yordam",
+            "n5": "Kirish",
+            "n6": "Tashkilotni ulash"
+
+        },
+        "footer": {
+            "n7": "Tashkilot Haqida",
+            "n8": "Imkoniyatlar",
+            "n9": "Ma'lumotlar",
+            "n10": "Obuna Bo'ling",
+            "n11": "Biz Haqimizda",
+            "n12": "Yangiliklar",
+            "n13": "Hamkorlarga",
+            "n14": "Aloqa Uchun M'alumotlar",
+            "n15": "FAQ",
+            "n16": "O'qituvchilarga",
+            "n17": "Ota-Onalarga",
+            "n18": "O‘quvchilarga",
+            "n19": "Davlat Organlariga",
+            "n20": "Kundalick",
+            "n21": "Hamkorlik Dasturlari"
+        },
+        "login": {
+            "n25": "Tizimda ro‘yxatdan o‘tmaganmisiz?",
+            "n26": "Login",
+            "n27": "Parol",
+            "n28": "Tizizmga kiring",
+            "n29": "Login yoki parolni unutdingizmi? ",
+            "n30": "Loginni tiklash.",
+            "n31": "Kirish"
+        },
+        "O'qituvchilarga": {
+            "n32": "Maktab sahifasi",
+            "n33": "eMaktab da ta'lim muassasasining biznes kartasi: ma'muriyat xodimlari, aloqa uchun ma'lumotlar, yangiliklar, huquqiy va boshqa hujjatlar, e'lonlar, fotogalereya va forum. Maktab sahifasi va uning bo‘limlarini ommalashtirish uchun sozlash mumkin.",
+            "n34": "Dars jadvali va darsla",
+            "n35": "Dars jadvalini oson va tushunarli qilib kiritish. Almashtirish, ko‘chirish va bekor qilishlarni ko‘rsating. Bir vaqtning o‘zida sinf bo‘yicha bir haftalik dars jadvalini, butun hisobot davri yoki barcha o‘qituvchilar bo‘yicha dars jadvali setkasini ko‘ring yoki chop eting.",
+            "n36": "Elektron jurnal",
+            "n37": "Odatiy qog‘oz jurnalining standart turi va bir qator qo‘shimcha ko‘rinishlari: kunlik jurnal, haftalik jurnal, dars sahifasi Ma'muriyat baholash tizimlarini va darslarda ish turlarini tanlashi mumkin. Jurnalning barcha ko‘rinishlari rangli va oq-qora variantlarda mavjud. O‘qituvchi har qanday darsga sharhlar va qo‘shimcha materiallar qo‘shishi mumkin.",
+            "n38": "Uy vazifalarini boshqarish",
+            "n39": "Uy vazifalarini boshqarish interaktiv moduli uy vazifalarini butun sinfga yoki alohida o‘quvchilarga berish, turli xil sinflar uchun ulardan nusxa olish, ularga fayllar qo‘shish va bajarilish jarayonini nazorat qilish imkonini beradi.",
+            "n40": "Hisobotlar",
+            "n41": "Standart vedomostlarni va ta'lim muassasasining hisobotlarini hamda qo‘shimcha ma'lumotlarni o‘z ichiga olgan to‘liq statistika. Oldin qo‘lda to‘ldirilgan maktab hisobotlari endi avtomatik ravishda shakllantiriladi. Barcha ma'lumotlar haqiqiy vaqt rejimida yangilanadi."
+        },
+        "imkoniyatlar": {
+            "n32": "O'qituvchilarga",
+            "n33": "Ota-Onalarga",
+            "n34": "O‘quvchilarga",
+            "n35": "Davlat Organlariga"
+        },
+        "Ota-Onalarga": {
+            "n42": "O‘quvchining kundaligi",
+            "n43": "Elektron kundalik - bu haqiqiy vaqt rejimida har qanday ta'lim axborotiga kirishdir. Farzandingizning darslar jadvaliga kiritilgan o‘zgartirishlarni, joriy va yakuniy yutuqlarini kuzatib boring.",
+            "n44": "Uy vazifalari",
+            "n45": "Farzandingizning uy vazifalarini nazorat qilish va bajarilishini kuzatib borish uchun foydali vosita.",
+            "n46": "Muloqot",
+            "n47": "eMaktab – bu muloqot uchun yopiq va zamonaviy muhitdir. Tematik forumlar yaratish, tadbirlardagi fotosuratlar bilan almashinish, qulay vaqtda har qanday ota-ona yoki o‘qituvchi bilan bog‘lanish mumkin."
+
+        },
+        "O‘quvchilarga": {
+            "n48": "Kundalik daftari",
+            "n49": "eMaktab qog‘ozli jurnal va undan ortiq bo‘lgan masalalarni oson hal qiladi: darslar jadvali, uy vazifalari, qo‘yilgan barcha baholar, dars jarayonlarida ishlatiladigan materiallar, o‘rtacha ball, o‘tilgan va kelasi darslar mavzulari, o‘qituvchining sharhlari.",
+            "n50": "Portfolio",
+            "n51": "eMaktab dagi shaxsiy sahifangizni osongina portfolioga aylantirish va yutuqlaringiz haqida barchaga aytib berish mumkin. Bunda sizga quyidagilar yordam beradi: shaxsiy blog va eslatmalar yaratish va bezashdagi tasavvurlaringiz, shaxsiy materiallar va raqamli gramota, diplomlar uchun fayllar, yangiliklar devori va boshqalar...",
+            "n52": "Muloqot",
+            "n53": "eMaktab da quyidagilarni amalga oshirish osonroq: boshqa maktab o‘quvchilari bilan muloqot qilish, maktabingizda to‘garaklar yaratish, uni olib borish yoki faqatgina tematik to‘garaklarda qatnashish, sinfning tadbirlari va yangiliklarini muhokama qilish, maktab hayotidagi fotosuratlarni boshqalar bilan baham ko‘rish."
+
+        },
+        "Davlat Organlariga": {
+            "n54": "Statistik ma'lumotlarini to‘plash",
+            "n55": "Tizimdagi quyi tashkilotlardan ishning asosiy parametrlari bo‘yicha haqiqiy vaqt rejimida Excel dasturiga tushirish imkoniyati bilan bir qator statistik hisobotlarni olish.",
+            "n56": "Boshqaruv yoki ta'lim bo‘limining Vakolatxonasi",
+            "n57": "Ta'lim boshqaruv organining biznes kartasi: administratsiya xodimlari, aloqa uchun ma'lumotlar, yangiliklar, huquqiy va boshqa ommaviy hujjatlar, quyi tashkilotlarning tashkiliy tuzilmasi.",
+            "n58": "Xabardor qilish",
+            "n59": "eMaktab ga ota-onalarga, o‘quvchilarga yoki faqat ta'lim muassasasining quyi tizim rahbariyatiga rasmiy ma'lumot bilan shaxsiy xabarlarni ommaviy yuborish. Muhim hujjat yoki ta'lim sohasidagi tadbir haqida xabar berishning tez va qulay usuli."
+
+        },
+        "Hamkorlarga": {
+            "n60": "Saytdagi hamkorlik dasturlari",
+            "n61": "eMaktab – keng koʼlamli umumrespublika taʼlim loyihasi boʼlib, foydalanuvchilarning tashrifi boʼyicha Oʼzbekistondagi saytlar TOP-10 ligidan oʼrin olgan.(Similarweb talqiniga koʼra, 2021 yil dekabr oyidagi holat). Har oy saytga oʼrta hisobda 2,7 milliondan ziyod foydalanuvchilar tashrif buyurishadi. Sahifalarni koʼrish soni esa 473 milliondan ortiq (2021 yil Noyabr holatiga koʼra, Yandex.Metrica talqiniga asoslangan holda).",
+            "n62": "Biz foydalanuvchilarimiz bilan doimiy aloqada bo‘lamiz:",
+            "n63": "eMaktab axborot beruvchi",
+            "n64": "eMaktabdagi barcha loyihalar ijodiy va intellektual rivojlanishga hissa qoʼshgan holda, foydalanuvchilarga yangi bilimlarga ega boʼlishiga yordam beradi: reklama beruvchilar bilan birgalikda biz oʼquv ilovalari, tematik tarmoqlar va taʼlim uchun maxsus loyihalar yaratamiz. Ishtirokchilar oʼzaro tarmoq uskunalari (forum, sharhlar, shaxsiy xabarlar) yordamida maʼlumot almashish imkoniga egalar, bu esa auditoriya ishtirokini maksimal darajada qamrab olinishiga koʼmak beradi.",
+            "n65": "eMaktab qiziqarli",
+            "n66": "Hamkorlarimiz bilan birgalikda biz saytdagi taʼlim muhitini koʼngilochar tadbirlar: tanlovlar, oʼyinlar va aktsiyalar bilan faol ravishda toʼldiradigan loyihalar yaratamiz. Ishtirokchilarni qimmatbaho sovrinlar bilan ragʼbatlantirish auditoriyaning saytga va reklama beruvchiga nisbatan qiziqishini oshiradi.",
+            "n67": "eMaktab xavfsiz",
+            "n68": "eMaktab – foydalanuvchilar va ta’lim tashkilotlarini ro‘yhatdan o‘tkazishning qat’iy tartibiga ega bo‘lgan yopiq axborot tizimi. Auditoriya saytdagi ma’lumotlarga ishonadi va 100 foiz tasdiqlangan akkauntlardan iborat.",
+            "n69": "eMaktab da quyidagi auditoriya mavjud:",
+            "n70": "O‘quvchilar – 51 foiz",
+            "n71": "Ota-onalar – 44 foiz",
+            "n72": "O‘qituvchilar – 5 foiz",
+            "n73": "Ayollar – 38 foiz",
+            "n74": "Erkaklar – 62 foiz",
+            "n75": "Reklama imkoniyatlari",
+            "n76": "Media reklama",
+            "n77": "Brend va noan’anaviy formatlar",
+            "n78": "Targeting uchun ajoyib imkoniyatlar",
+            "n79": "Maxsus loyihalar",
+            "n80": "O‘yin va o‘quv ilovalarini uyg‘unlashtirish",
+            "n81": "Uyg‘unlashgan kommunikasiyalar (digital va offline)",
+            "n82": "Oliy o‘quv yurtlari bilan olimpiadalar va ilmiy tanlovlar o‘tkazish va boshqalar",
+            "n83": "eMaktab portalining Media to‘plamini bu yerda va mavjud reklama formatlarini ",
+            "n84": "bu yerda",
+            "n85": "ko‘rish mumkin.",
+            "n86": "Reklamani joylashtirish masalalari bo‘yicha quyidagi telefon va elektron pochta orqali murojaat qiling: +998900541718 e-mail: ",
+            "n87": "adv@emaktab.uz"
+
+        },
+        "Yordam-header": {
+            "n88": "Qo'llab-quvvatlash xizmati",
+            "n89": "So’rov yuborish",
+            "n90": "Kirish"
+
+        },
+        "Yordam-body": {
+            "n91": "Qidiriah",
+            "n92": "Ma'murlar va o'qituvchilar",
+            "n93": "Ota-onalar va o'quvchilarga",
+            "n94": "Boshqaruvchi tashkilotlari xodimlariga",
+            "n95": "Video yo'riqnomalar",
+            "n96": "Tizimga kirish va profil sozlamalari",
+            "n97": "Qo'shimcha ta'lim (BQT)",
+            "n98": "Hamkor platformalar yoki qo'shimcha xizmatlar bilan ishlash",
+            "n99": "Umumiy savollar",
+            "n100": "Xavfsizlik",
+            "n101": "tavsiya etiladigan maqolalar",
+            "n102": "Sinflarni keyingi o‘quv yiliga o‘tkazish. Sinflarni tahrirlash",
+            "n103": "Jurnalni to‘ ldirish haqida eslatma ",
+            "n104": "eMaktab.uz tizimida« Jurnallar» moduli ",
+            "n105": "«Jurnalni o‘z vaqtida yuritish» ko‘rsatgichini hisoblash mantig‘i va hisoblash bo‘yicha keltirilgan misollar"
+        },
+        "Tashkilot": {
+            "n106": "Biz haqimizda",
+            "n107": "Yangiliklar",
+            "n108": "Aloqa uchun ma'lumotlar",
+            "n109": "Biz haqimizda",
+            "n110": "«eMaktab» – Oʻzbekiston Respublikasi Maktabgacha va maktab taʼlimi vazirligining yagona raqamli taʼlim platformasi boʻlib, oʻqituvchilar, oʻquvchilar, ota-onalar, taʼlim tashkilotlari maʼmuriyatlari, shuningdek, taʼlim boshqaruvi organlari vakillari uchun moʻljallangan.",
+            "n111": "Faoliyatning asosiy yo‘nalishlari:",
+            "n112": "Maktab va maktabgacha ta’limni raqamlashtirish.",
+            "n113": "O‘quv jarayoniga ilg‘or AKTlarni integratsiyalash.",
+            "n114": "“O‘qituvchi-o‘quvchi-ota-ona” interfaol muloqotini rivojlantirish.",
+            "n115": "Masofaviy va mustaqil ta’lim olish imkoniyatlarini amalga oshirish.",
+            "n116": "Maktab o‘quv dasturi doirasidagi fanlarni qo‘shimcha o‘rganish uchun multiservisli “eMaktab.Smart” onlayn platformasini ishlab chiqish.",
+            "n117": "“Similarweb”",
+            "n118": "tahliliy portali maʼlumotlariga koʻra, www.emaktab.uz sayti “Uznet”da eng koʻp tashrif buyuriladigan saytlar uchligiga kiradi.",
+            "n119": "“eMaktab” platformasi onlayn rejimda dars jadvallarini yaratish, oʻqituvchilar uchun dars rejalarini tuzish, oʻquvchilarning davomati hamda yutuqlarini jurnal va kundalikning elektron shakllarida yuritish imkonini beradi, shuningdek, taʼlim tashkilotlari va taʼlim organlariga statistik hisobotlarni shakllantirish vositalarini taqdim etadi. Oʻquvchilar va ularning ota-onalari uchun “eMaktab” tun-u kun baholash va uy vazifalarini, shuningdek, qo‘shimcha ta’lim resurslaridan foydalanish imkoniyatini taqdim etadi.",
+            "n120": "“eMaktab” xizmatlari mobil ilova shaklida ham mavjud.",
+            "n121": "O‘qituvchilar uchun “eMaktab.Jurnal” ilovasi xatto internetga ulanmasdan ham baho qo‘yish, uy vazifasini belgilash va o‘z jadvalingizni kuzatish imkonini beradi. Internetga ulanish faqat joriy jurnal va jadvalni yuklab olish uchun ish kuni boshlanishidan oldin, shuningdek ish kunining oxirida zarur bo‘ladi, shunda o‘qituvchi dars paytida telefonga kiritgan ma’lumotlar tizim bilan uyg‘unlashadi. Shu kungacha ilova 1 million marotabadan ortiq yuklab olingan.",
+            "n122": "O‘quvchilar va ota-onalar uchun “eMaktab.Oila” ilovasi elektron kundalikning standart opsiyalariga qo‘shimcha ravishda quyidagilar haqida ma’lumot beradi:",
+            "n123": "bolaning qayerdaligi;",
+            "n124": "bolaning qayerdaligi;",
+            "n125": "fanlar bo‘yicha bolaning sinfdagi reytingi;",
+            "n126": "o‘rtacha balli va hafta natijalari;",
+            "n127": "ertangi kun uchun muhim ishlar;",
+            "n128": "keyingi o‘quv kuni uchun uy vazifalari soni.",
+            "n129": "Shu kungacha ilova 1 million marotabadan ortiq yuklab olingan.",
+            "n130": "“eMaktab.Treker” ilovasi ota-onalarga farzandining qayerdaligi haqida ma’lumot olib turish imkonini beradi. Ota-onalarning mobil qurilmalariga farzandining ayni damda qayerdaligi, shuningdek, har kunlik harakatlanishi to‘g‘risidagi bildirishnomalar kelib turadi. Bolalar xavfsizligini ta’minlash uchun “eMaktab.Treker” ilovasida favqulodda telefon raqamlari mavjud bo‘lgan SOS tugmalari bo‘lib, favqulodda vaziyat yuzaga kelganda, bola tugmani bir marotaba bosish orqali yordamga muhtojligi haqida xabar berishi mumkin. Ilovada shuningdek, qizil qo‘ng‘iroq tugmasini bir marotaba bosish orqali raqamga qo‘ng‘iroq qilish mumkin.",
+            "n131": "“eMaktab”ning ijtimoiy tarmoqlardagi rasmiy sahifalari:.",
+            "n132": "Telegram kanal: eMaktab| Rasmiy kanal",
+            "n133": "Instagram: eMaktab|Uzbekistan",
+            "n134": "Facebook: 'eMaktab.uz' raqamli ta'lim platormasi",
+            "n135": "'YouTube'dagi videoblog: eMaktab | Rasmiy kanal ",
+            "n136": "'Yandex.Dzen' dagi blog: 'eMaktab - aka 'O 'zbekistondagi elektron kundalik va jurnallar haqida",
+            "n137": "Hamkorlarimiz",
+            "n138": "Аxborot hamkorlari"
+        },
+        "Slider": {
+            "n139": "O‘qituvchilarga",
+            "n140": "Maktabdagi ish jarayonini avtomatlashtirishva chorakda 20 soat ish vaqtini tejash uchunzamonaviy ta’ lim platformasidan foydalaning. ",
+            "n141": "Ota-onalarga",
+            "n142": "Obunani rasmiylashtiring hamda farzandlaringizning maktabdagi yutuqlarinio‘ zingizga qulay vaqtda kuzatib boring.",
+            "n143": "O‘quvchilarga",
+            "n144": "eMaktab maktabda muvaffaqiyatli bo‘lishga yordam beradi.Baholar, dars jadvali, vazifasi odiy topshiriqlar hamisha qo‘ l ostingda!",
+            "n145": "Davlat organlariga",
+            "n146": "Ta’limni boshqaruvchi organlar uchun eMaktab – ta’ lim muassasalari faoliyatini onlayn nazorat qilish vositasidir.Statistik ma’ lumotlar hamda hisobotlar real vaqt - 24 / 7 rejimida mavjud.",
+            "n147": "Batafsil ma'lumot"
+        }
+
+
+    }
+}

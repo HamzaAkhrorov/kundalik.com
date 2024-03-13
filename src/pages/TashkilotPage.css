@@ -1,0 +1,107 @@
+.tashkilot-background-container {
+    width: 100%;
+    height: 430vh;
+    background-color: #f4f4f4;
+}
+
+.tashkilot-kontainer {
+    width: 960px;
+    background-color: #fff;
+    position: relative;
+    top: 22px;
+    margin-left: 280px;
+}
+
+.tashkilot-about-header {
+    width: 100%;
+    height: 65px;
+    background-color: #f4f4f4;
+    display: flex;
+    padding-top: 30px;
+    font-size: 15px;
+}
+
+.tashkilot-yangiliklar {
+    position: relative;
+    left: -20px;
+    margin-right: 20px;
+    color: rgb(128, 130, 133);
+    text-decoration: none;
+}
+
+.tashkilot-yangiliklar:hover {
+    color: black;
+}
+
+.tashkilot-about-header {
+    padding-left: 20px;
+}
+
+.tashkilot-body {
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #d1d3d4;
+    border-radius: 3px;
+    border-bottom: transparent;
+}
+
+.tashkilot-h1 {
+    font-family: "Museo Cyrl";
+    color: #00bae5;
+    font-size: 32px;
+    font-weight: 400;
+    margin: 0 0 10px 0;
+}
+
+.tashkilot-body .p {
+    line-height: 1.7;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.tashkilot-ul1 {
+    line-height: 1.7;
+    font-size: 14px;
+    margin-bottom: 35px;
+}
+
+.tashkilot-body ul li {
+    margin-bottom: 8px;
+    position: relative;
+    right: -20px;
+}
+
+.tashkilot-ul2 {
+    line-height: 1.7;
+    font-size: 14px;
+}
+
+.tashkilot-body a {
+    font-size: 14px;
+}
+
+.tashkilot-sahifa {
+    text-decoration: none;
+    color: rgb(128, 130, 133);
+}
+
+.tashkilot-sahifa:hover {
+    color: blue;
+}
+
+.tashkilot-hamkorlar img {
+    width: 180px;
+    margin: 20px;
+}
+
+.tashkilot-hamkorlar p {
+    color: #00bae5;
+    font-size: 32px;
+    font-weight: 400;
+    margin: 0 0 10px 0;
+    margin-left: 330px;
+}
+
+.tashkilot-hamkorlar {
+    display: inline;
+}

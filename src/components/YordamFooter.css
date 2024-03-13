@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+body {
+    line-height: 1.5;
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.yordamfooter-container {
+    width: 1170px;
+    height: 180px;
+    margin: auto;
+}
+
+.yordamfooter-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -160px;
+    justify-content: space-between;
+}
+
+.yordamfooter {
+    background-color: #f4f4f4;
+    padding: 10px 0;
+}
+
+.yordamfooter-col ul {
+    list-style: none;
+}
+
+.yordamfooter-col {
+    width: 25%;
+    padding: 0 15px;
+}
+
+.yordamfooter-col h4 {
+    font-size: 18px;
+    color: black;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    font-weight: 500;
+    position: relative;
+}
+
+.yordamfooter-col h4::before {
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    background-color: #19b47b;
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+}
+
+.yordamfooter-col ul li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.yordamfooter-col ul li a {
+    font-size: 16px;
+    text-transform: capitalize;
+    color: rgba(15, 79, 84, 1);
+    text-decoration: none;
+    font-weight: 300;
+    color: rgba(15, 79, 84, 1);
+    display: block;
+    line-height: 30px;
+    transition: all 0.3s ease;
+}
+
+.yordamfooter-col ul li a:hover {
+    color: #19b47b;
+    padding-left: 8px;
+}
+
+.yordamfooter-col .social-links a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.3s ease;
+}
+
+.yordamfooter-icon {
+    width: 30px;
+}
